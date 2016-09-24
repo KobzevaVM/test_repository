@@ -9,6 +9,7 @@ int main(int argc, const char * argv[]) {
     cout << a + b << endl;
     int c;
     cin >> c >> endl;
+    cout << "сумма a и c: ";
     cout << a + c << endl;
     return 0;
 }
