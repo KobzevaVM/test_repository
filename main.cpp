@@ -12,5 +12,7 @@ int main(int argc, const char * argv[]) {
     cin >> c >> endl;
     cout << "сумма a и c: ";
     cout << a + c << endl;
+    cout << "произведение a и b: ";
+    cout << a * b << endl;
     return 0;
 }
