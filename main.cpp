@@ -6,6 +6,7 @@ int main(int argc, const char * argv[]) {
     cin >> a;
     cout << "введите число b" << endl;
     cin >> b;
+    cout << "сумма a и b: ";
     cout << a + b << endl;
     int c;
     cin >> c >> endl;
